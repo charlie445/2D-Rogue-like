@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cr1hit1y85hce"
+path="res://.godot/imported/Charlies Game SoundTrack V1.mp3-dc3b8975f92e43755577b256f31555d7.mp3str"
+
+[deps]
+
+source_file="res://scenes/UI/Charlies Game SoundTrack V1.mp3"
+dest_files=["res://.godot/imported/Charlies Game SoundTrack V1.mp3-dc3b8975f92e43755577b256f31555d7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
